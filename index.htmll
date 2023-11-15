@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>centrar texto</title>
+</head>
+<body>
+    
+  
+
+    <center>
+        <h1>World D Air Jordan</h1>
+        <img src="https://th.bing.com/th/id/OIP.Jra3VBScWvk5t3IyESg6GQHaG6?w=240&h=220&c=7&r=0&o=5&pid=1.7">
+    </center>
+    <h1>Air Jordan shoes and your favorite retros</h1>
+
+<p>Buenas te doamos la bienvenida a esta pagina aqui 
+    podras ver todos los calzados de air Jordan y retros.Mostraremos una muy buena coleccion de tenis para los
+aficionados de los Jordan y Jordan retro </p>
+
+<center>
+<h2>Air Jordan 1 High OG "Satin Bred"</h2>
+<p>Este modelo es un calzado para mujer que tiene un valor aprozimado de $180</p>  
+<img src="https://preview.redd.it/review-air-jordan-1-satin-bred-from-perfect-kickz-v0-xp5w8fdctyub1.jpg?width=1080&crop=smart&auto=webp&s=49d64df308bcef5799d3ac788044acfc87e4e1fe"
+</center>
+
